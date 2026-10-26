@@ -26,4 +26,4 @@ All parts are bought from Robu (robu.in). Cells marked FILL IN are still to be c
 - **What the alternative would give:** a higher top speed, which would improve the time score slightly, but with a higher stall current (state both stall currents from the two product pages: FILL IN).
 
 ## Power-block diagram
-See `power_block_diagram.jpeg` in this folder.
+See `PowerBlock+Wiring_Diagram.jpeg` in this folder.
