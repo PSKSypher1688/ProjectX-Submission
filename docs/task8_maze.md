@@ -38,7 +38,7 @@ Example maze (lengths are in arbitrary units; the diagram is below):
 
 S is the start, E is the end box, X and G are dead ends, and A, B, C, D are T-junctions. The loop is A-B-C-D.
 
-![Annotated example maze](task8_maze_diagram.jpg)
+![Annotated example maze] - Refer the Annotated_Maze.png
 
 ## 3. Worked traversal
 
