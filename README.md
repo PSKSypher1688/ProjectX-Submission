@@ -1,7 +1,6 @@
 # ProjectX-Submission
 Line Maze Solver
 
-I will be honest, clearly i havent written the code in task 9(vibe coded) due to time restrictions, but I can assure you that I know and can explain each and every line in the code
 # LMS / Meshmerize: 
 
 Submission for all nine tasks. The target platform is the ESP32-WROOM-32 (Arduino framework, C++) with the hardware in Appendix A of the task sheet.
